@@ -44,5 +44,3 @@ def rectangle(a, b, n, integral):
     result = h*sum([y_list[i] for i in range(1, n)])
     
     return {"status": True, "data": result}
-
-

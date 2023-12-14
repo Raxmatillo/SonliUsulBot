@@ -89,12 +89,7 @@ async def usul(call: CallbackQuery, state: FSMContext):
     
     await state.finish()
     
-    print(usul)
-    print(call.from_user.id)
-    print(message_id, 'message_id')
-    print(a, type(a))
-    print(n, type(b))
-    print(n, type(n))
+  
     if usul == "trapetsiya":
         res = trapetsiya(a=int(a), b=int(b), n=int(n), integral=tenlama)
         await bot.send_message(chat_id=call.message.chat.id, text=res["data"], reply_to_message_id=message_id)
