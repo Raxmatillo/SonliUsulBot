@@ -5,7 +5,7 @@
 [PPTX formatida ko'rish](https://docs.google.com/presentation/d/1RQsj_mhCrsiRlYCixzT7VadWkuxZ3JgZ/edit?usp=drive_link&ouid=109707348426311513787&rtpof=true&sd=true)
 
 ## Kurs ishi hujjati
-[DOC formatida ko'rish](https://docs.google.com/document/d/1bZ8M6m526VffXfjYq23_i8wUQZoxNL8F/edit?usp=drive_link&ouid=109707348426311513787&rtpof=true&sd=true)
+[DOC formatida ko'rish](https://docs.google.com/document/d/1yNmIhfj1RcT7LXOjvYrdXaoY6Q1ngnbD/edit?usp=drive_link&ouid=109707348426311513787&rtpof=true&sd=true)
 
 
 
